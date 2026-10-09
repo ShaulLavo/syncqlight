@@ -1,6 +1,6 @@
 # SyncQLight development
 
-Read README.md before changing the project. This repository currently contains setup documentation only; there is no engine implementation or test suite yet.
+Read plans/00-start-here.md and plans/08-decisions-and-sources.md before changing the project. This repository currently contains setup documentation only; there is no engine implementation or test suite yet.
 
 ## Established direction
 
